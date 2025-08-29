@@ -32,6 +32,6 @@
 
 ## Resumo da Entrega
 
-- [ ] Códigos inspecionados com comentários de defeitos.  
-- [ ] Defeitos classificados diretamente no código.  
-- [ ] Commit/push realizado no repositório do GitHub Classroom.  
+- [x] Códigos inspecionados com comentários de defeitos.  
+- [x] Defeitos classificados diretamente no código.  
+- [x] Commit/push realizado no repositório do GitHub Classroom.  
