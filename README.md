@@ -24,10 +24,9 @@
 
 ## Integrantes do Grupo
 
-- Nome 1 — RA:  
-- Nome 2 — RA:  
-- Nome 3 — RA:  
-- Nome 4 — RA:  
+- Nome: Isadora Caetano Brandão de Sousa — RA:10420646
+- Nome: Letícia Santiago da Silva — RA:10420655  
+
 
 ---
 
