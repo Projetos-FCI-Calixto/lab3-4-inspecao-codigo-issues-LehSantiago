@@ -1,9 +1,15 @@
 package br.calebe.ticketmachine.exception;
-
 /**
- *
- * @author Calebe de Paula Bianchini
- */
+* Corretoras:
+* Isadora Caetano Brandão de Sousa - 10420646
+* Letícia Santiago da Silva - 10420655
+*
+* @author Calebe de Paula Bianchini
+*/
 public class PapelMoedaInvalidaException extends Exception {
-    
+	/*
+	 * Tipo de Defeito: Excesso
+	 *
+	 * Classe vazia que poderia conter uma mensagem.
+	 * */
 }
